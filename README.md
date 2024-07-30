@@ -31,6 +31,19 @@ A cryptocurrency trading system implementing users to simulate trade using multi
 An implemented warehouse system allowing abserving of items, and their properties.
 
 ###
+
+<h2 align="left">Personal skills</h2> 
+<p align="left">
+  <ul>
+    <li>Programming Languages: PHP, JavaScript, Typescript, Python, Java</li> 
+    <li>Frameworks: Laravel, Wordpress</li>
+    <li>Tools: Git, Docker.</li> 
+  </ul>
+</p>
+
+
+
+Tools: Git, Docker.
 <!--
 **dzangalis/dzangalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
