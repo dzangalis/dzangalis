@@ -23,7 +23,7 @@
 
 #### <a href="https://github.com/dzangalis/Article-website">Article website</a>
 
-An article webpage allowing the addition of user articles and comments, neetly and visually organised.
+An article webpage allowing the addition of user articles and comments, neatly and visually organised.
 
 #### <a href="https://github.com/dzangalis/Crypto-trade-v4">Crypto trading simulation system</a>
 
