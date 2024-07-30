@@ -31,7 +31,7 @@ A cryptocurrency trading system implementing users to simulate trade using multi
 
 #### <a href="https://github.com/dzangalis/Warehouse-v2">Warehouse</a>
 
-An implemented warehouse system allowing abserving of items, and their properties.
+An implemented warehouse system allowing observing of items, and their properties.
 
 ###
 
