@@ -41,9 +41,6 @@ An implemented warehouse system allowing abserving of items, and their propertie
   </ul>
 </p>
 
-
-
-Tools: Git, Docker.
 <!--
 **dzangalis/dzangalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
